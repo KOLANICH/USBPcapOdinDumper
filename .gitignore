@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+*.pyo
+./USBPcapOdinDumper.egg-info
+./build
+./dist
+./.eggs
